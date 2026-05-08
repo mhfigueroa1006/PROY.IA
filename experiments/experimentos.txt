@@ -1,0 +1,11 @@
+EXPERIMENTO 1
+Historial positivo
+Resultado: el sistema recomendó estilo ofensivo.
+
+EXPERIMENTO 2
+Historial negativo
+Resultado: el sistema recomendó estilo defensivo.
+
+EXPERIMENTO 3
+Jugadores lesionados
+Resultado: el agente evitó seleccionar jugadores con baja condición física.
