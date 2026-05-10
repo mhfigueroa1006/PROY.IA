@@ -46,13 +46,23 @@ Instalar dependencias:
 pip install -r requirements.txt
 ```
 
-## Ejecución
+## Ejemplo de ejecución
 
-Ejecutar:
+Al ejecutar el sistema:
 
 ```bash
 python src/agente_futbol.py
 ```
+
+el agente analiza el contexto reciente del partido, evalúa el rendimiento y estado físico de los jugadores y genera automáticamente:
+
+- una recomendación táctica,
+- una alineación óptima,
+- scores individuales,
+- análisis de química entre jugadores.
+
+Los resultados se exportan automáticamente en archivos Excel dentro de la carpeta `results/`.
+
 ## Dependencias
 
 - pandas
