@@ -53,6 +53,12 @@ Ejecutar:
 ```bash
 python src/agente_futbol.py
 ```
+## Dependencias
+
+- pandas
+- scikit-learn
+- openpyxl
+- numpy
 
 ## Resultados
 
@@ -61,7 +67,7 @@ El sistema:
 - genera alineaciones
 - evalúa jugadores
 - analiza química entre jugadores
-
+El sistema exporta automáticamente los resultados y alineaciones generadas en archivos Excel dentro de la carpeta `results/`.
 ## Autores
 
 Proyecto desarrollado para la materia de Inteligencia Artificial.
